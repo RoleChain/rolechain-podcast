@@ -1,0 +1,14 @@
+{
+  "Agent Rogue": {
+    "name": "Agent Rogue",
+    "avatar_url": "/JRE_AGENT_F1.png",
+    "voice_id": "b1IThEzlG0YHHHccZNmK",
+    "mouth_positions": {
+      "10": "/news/1.png",
+      "20": "/news/2.png",
+      "30": "/news/3.png",
+      "40": "/news/4.png",
+      "50": "/news/5.png"
+    }
+  }
+}
